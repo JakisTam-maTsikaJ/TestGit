@@ -1,0 +1,40 @@
+---
+title: "Instrukacja połączenia"
+author: "Kuba"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+## 
+
+```{r}
+install.packages("rio")
+```
+
+```{r}
+library(rio)
+```
+
+```{r}
+export(mtcars, file = "data/cars.xlsx")
+```
+
+```{r}
+
+```
+
+asdsadasdasd
+
+cos robie hahahahasadasdasd
+
+### Naglowek 3
+
+[GitHub](https://github.com/)
+
+sad
+
+3.dasda
+
+`dasasd sada`dsadsad
